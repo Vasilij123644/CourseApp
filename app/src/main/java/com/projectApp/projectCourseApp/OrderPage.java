@@ -1,4 +1,4 @@
-package com.crazyapps.goshadudarandroidfirst;
+package com.projectApp.projectCourseApp;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -8,8 +8,8 @@ import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
-import com.crazyapps.goshadudarandroidfirst.model.Course;
-import com.crazyapps.goshadudarandroidfirst.model.Order;
+import com.projectApp.projectCourseApp.model.Course;
+import com.projectApp.projectCourseApp.model.Order;
 
 import java.util.ArrayList;
 import java.util.List;

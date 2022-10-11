@@ -1,4 +1,4 @@
-package com.crazyapps.goshadudarandroidfirst.adapter;
+package com.projectApp.projectCourseApp.adapter;
 
 import android.app.Activity;
 import android.app.ActivityOptions;
@@ -10,16 +10,15 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
-import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.crazyapps.goshadudarandroidfirst.CoursePage;
-import com.crazyapps.goshadudarandroidfirst.R;
-import com.crazyapps.goshadudarandroidfirst.model.Course;
+import com.projectApp.projectCourseApp.CoursePage;
+import com.projectApp.projectCourseApp.R;
+import com.projectApp.projectCourseApp.model.Course;
 
 import java.util.List;
 

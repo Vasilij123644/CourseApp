@@ -1,4 +1,4 @@
-package com.crazyapps.goshadudarandroidfirst.adapter;
+package com.projectApp.projectCourseApp.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -9,9 +9,9 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.crazyapps.goshadudarandroidfirst.MainActivity;
-import com.crazyapps.goshadudarandroidfirst.R;
-import com.crazyapps.goshadudarandroidfirst.model.Category;
+import com.projectApp.projectCourseApp.MainActivity;
+import com.projectApp.projectCourseApp.R;
+import com.projectApp.projectCourseApp.model.Category;
 
 import java.util.List;
 

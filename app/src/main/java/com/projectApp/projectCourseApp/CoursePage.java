@@ -1,4 +1,4 @@
-package com.crazyapps.goshadudarandroidfirst;
+package com.projectApp.projectCourseApp;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -10,7 +10,7 @@ import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.constraintlayout.widget.ConstraintLayout;
 
-import com.crazyapps.goshadudarandroidfirst.model.Order;
+import com.projectApp.projectCourseApp.model.Order;
 
 public class CoursePage extends AppCompatActivity {
 

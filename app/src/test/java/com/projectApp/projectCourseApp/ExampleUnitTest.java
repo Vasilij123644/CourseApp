@@ -1,4 +1,4 @@
-package com.crazyapps.goshadudarandroidfirst;
+package com.projectApp.projectCourseApp;
 
 import org.junit.Test;
 

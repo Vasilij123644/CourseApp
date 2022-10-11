@@ -1,4 +1,4 @@
-package com.crazyapps.goshadudarandroidfirst.model;
+package com.projectApp.projectCourseApp.model;
 
 public class Course {
 

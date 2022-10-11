@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.crazyapps.goshadudarandroidfirst">
+    package="com.projectApp.projectCourseApp">
 
     <application
         android:allowBackup="true"
@@ -10,14 +10,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.GoshaDudarAndroidFirst">
         <activity
-            android:name=".Contacts"
+            android:name="com.projectApp.projectCourseApp.Contacts"
             android:exported="false" />
         <activity
-            android:name=".credits"
+            android:name="com.projectApp.projectCourseApp.credits"
             android:exported="false" />
-        <activity android:name=".OrderPage" />
-        <activity android:name=".CoursePage" />
-        <activity android:name=".MainActivity">
+        <activity android:name="com.projectApp.projectCourseApp.OrderPage" />
+        <activity android:name="com.projectApp.projectCourseApp.CoursePage" />
+        <activity android:name="com.projectApp.projectCourseApp.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
